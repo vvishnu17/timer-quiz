@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Quicksand', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: radial-gradient(#186a5e, #053339);
+  color: #e1eeeb;
+  min-height: 100vh;
+}
+.quiz{
+  max-width: 60%;
+  margin: 3rem auto;
+  background-color: black;
+  border-radius: 12px;
+  box-shadow: 0px 0px 8px rgba(0,0,0,0.75);
+  padding: 2rem;
+}
+.content{
+  max-width: 60rem;
+  margin: 2rem auto;
+  padding: 2rem;
+  background: radial-gradient(#0b201d, #021619);
+  border-radius: 16px;
+
+}
+
+
+
+
+
+

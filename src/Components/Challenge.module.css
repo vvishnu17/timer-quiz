@@ -1,0 +1,37 @@
+.challenge{
+    width: 22rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+    margin: 2rem auto;
+    background: linear-gradient(#4df8df, #4df0f8);
+    color: #221c18;
+    box-shadow: 0 2px 8px rgba(35, 34, 34, 0.6);
+    border-radius: 6px;
+  
+  
+}
+.time{
+    border: 0.5px solid black;
+    border-radius: 3px;
+    margin-top: 0;
+    padding: 0.25rem;
+}
+
+.button{
+    color: white;
+    background-color: black;
+    font-size: large;
+    border-radius: 5px;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+}
+.button:hover,
+.button:active{
+    outline: none;
+}
+.challenge h1{
+    margin-bottom: 0;
+}
