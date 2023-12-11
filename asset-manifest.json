@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/timer-quiz/static/css/main.adecdeee.css",
-    "main.js": "/timer-quiz/static/js/main.085b9a17.js",
+    "main.js": "/timer-quiz/static/js/main.2e17017a.js",
     "static/js/787.f6f90576.chunk.js": "/timer-quiz/static/js/787.f6f90576.chunk.js",
     "index.html": "/timer-quiz/index.html",
     "main.adecdeee.css.map": "/timer-quiz/static/css/main.adecdeee.css.map",
-    "main.085b9a17.js.map": "/timer-quiz/static/js/main.085b9a17.js.map",
+    "main.2e17017a.js.map": "/timer-quiz/static/js/main.2e17017a.js.map",
     "787.f6f90576.chunk.js.map": "/timer-quiz/static/js/787.f6f90576.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.adecdeee.css",
-    "static/js/main.085b9a17.js"
+    "static/js/main.2e17017a.js"
   ]
 }
